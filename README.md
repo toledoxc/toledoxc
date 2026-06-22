@@ -1,6 +1,4 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+## OLÁ, BOM DIA
 
 - 👩‍🎓 sou estudante 
 - 🌱 gosto de aprender coisas novas
